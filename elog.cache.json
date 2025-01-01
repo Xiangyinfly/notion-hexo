@@ -1,76 +1,95 @@
 {
   "docs": [
     {
-      "id": "16e64052-cea9-81eb-81cf-faaee5f977fa",
-      "doc_id": "16e64052-cea9-81eb-81cf-faaee5f977fa",
-      "updated": 1735712700000,
+      "id": "16e64052-cea9-805a-8c0d-ec1fda55db2b",
+      "doc_id": "16e64052-cea9-805a-8c0d-ec1fda55db2b",
+      "updated": 1735724940000,
       "properties": {
-        "categories": "博客折腾手册",
+        "categories": "深入源码",
         "tags": [
-          "elog",
-          "notion",
-          "hexo",
-          "blog"
+          "后端"
         ],
         "description": "",
-        "permalink": "notion-hexo/",
-        "title": "Notion + Hexo + GitHub Actions + Vercel 博客解决方案",
-        "cover": "/images/e6a03ae5a57d49e4914b57a306787607.jpg",
-        "date": "2025-01-01 14:25:00",
-        "updated": "2025-01-01 14:25:00"
+        "permalink": "",
+        "title": "单例模式下的懒加载",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:49:00"
       },
-      "realName": "Notion + Hexo + GitHub Actions + Vercel 博客解决方案",
-      "relativePath": "/Notion + Hexo + GitHub Actions + Vercel 博客解决方案.md",
+      "realName": "单例模式下的懒加载",
+      "relativePath": "/单例模式下的懒加载.md",
       "docPath": "./source/_posts"
     },
     {
-      "id": "16e64052-cea9-81ab-addb-c354e431edac",
-      "doc_id": "16e64052-cea9-81ab-addb-c354e431edac",
-      "updated": 1735712700000,
+      "id": "16e64052-cea9-80e9-bf42-dde3ebcbdb49",
+      "doc_id": "16e64052-cea9-80e9-bf42-dde3ebcbdb49",
+      "updated": 1735724880000,
       "properties": {
-        "categories": "Elog-Notion",
+        "categories": "基础架构",
         "tags": [
-          "notion",
-          "elog"
+          "MIT",
+          "后端"
         ],
-        "description": "使用Notion + Hexo部署博客时，在 Notion 上写作的注意事项，以及如何配置Elog使其更好的结合Hexo",
-        "permalink": "notion-notice/",
-        "title": "Notion-Hexo 的 Elog 配置详解",
-        "cover": "/images/de91d8193c1b7d27e88f220af42a71b8.jpg",
-        "date": "2025-01-01 14:25:00",
-        "updated": "2025-01-01 14:25:00"
+        "description": "",
+        "permalink": "",
+        "title": "MIT6.824 Lab1",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:48:00"
       },
-      "realName": "Notion-Hexo 的 Elog 配置详解",
-      "relativePath": "/Notion-Hexo 的 Elog 配置详解.md",
+      "realName": "MIT6.824 Lab1",
+      "relativePath": "/MIT6.824 Lab1.md",
       "docPath": "./source/_posts"
     },
     {
-      "id": "16e64052-cea9-8167-9af4-f43c97ce6a26",
-      "doc_id": "16e64052-cea9-8167-9af4-f43c97ce6a26",
-      "updated": 1735712700000,
+      "id": "16e64052-cea9-80cd-af01-c803c060dc4c",
+      "doc_id": "16e64052-cea9-80cd-af01-c803c060dc4c",
+      "updated": 1735724940000,
       "properties": {
-        "categories": "Elog-Notion",
+        "categories": "深入源码",
         "tags": [
-          "notion"
+          "OpenFeign",
+          "后端"
         ],
         "description": "",
-        "permalink": "notion-example/",
-        "title": "Notion示例文章",
-        "cover": "/images/aa04e8cfab38a2346420b1b635666927.jpg",
-        "date": "2025-01-01 14:25:00",
-        "updated": "2025-01-01 14:25:00"
+        "permalink": "",
+        "title": "OpenFeign源码解析",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:49:00"
       },
-      "realName": "Notion示例文章",
-      "relativePath": "/Notion示例文章.md",
+      "realName": "OpenFeign源码解析",
+      "relativePath": "/OpenFeign源码解析.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": "16e64052-cea9-8007-9d89-cf8267b64f95",
+      "doc_id": "16e64052-cea9-8007-9d89-cf8267b64f95",
+      "updated": 1735724880000,
+      "properties": {
+        "categories": "基础架构",
+        "tags": [
+          "RPC",
+          "后端"
+        ],
+        "description": "",
+        "permalink": "",
+        "title": "手搓RPC框架",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:48:00"
+      },
+      "realName": "手搓RPC框架",
+      "relativePath": "/手搓RPC框架.md",
       "docPath": "./source/_posts"
     }
   ],
   "catalog": [
     {
       "object": "page",
-      "id": "16e64052-cea9-8167-9af4-f43c97ce6a26",
-      "created_time": "2025-01-01T06:25:00.000Z",
-      "last_edited_time": "2025-01-01T06:25:00.000Z",
+      "id": "16e64052-cea9-8007-9d89-cf8267b64f95",
+      "created_time": "2025-01-01T09:42:00.000Z",
+      "last_edited_time": "2025-01-01T09:48:00.000Z",
       "created_by": {
         "object": "user",
         "id": "055a1f5a-55d8-4d1a-8a6b-7fe62325ef0d"
@@ -82,12 +101,12 @@
       "cover": {
         "type": "external",
         "external": {
-          "url": "https://www.notion.so/images/page-cover/met_camille_pissarro_1896.jpg"
+          "url": "https://www.notion.so/images/page-cover/solid_blue.png"
         }
       },
       "icon": {
         "type": "emoji",
-        "emoji": "🪐"
+        "emoji": "😉"
       },
       "parent": {
         "type": "database_id",
@@ -96,25 +115,26 @@
       "archived": false,
       "in_trash": false,
       "properties": {
-        "categories": "Elog-Notion",
+        "categories": "基础架构",
         "tags": [
-          "notion"
+          "RPC",
+          "后端"
         ],
         "description": "",
-        "permalink": "notion-example/",
-        "title": "Notion示例文章",
-        "cover": "/images/aa04e8cfab38a2346420b1b635666927.jpg",
-        "date": "2025-01-01 14:25:00",
-        "updated": "2025-01-01 14:25:00"
+        "permalink": "",
+        "title": "手搓RPC框架",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:48:00"
       },
-      "url": "https://www.notion.so/Notion-16e64052cea981679af4f43c97ce6a26",
+      "url": "https://www.notion.so/RPC-16e64052cea980079d89cf8267b64f95",
       "public_url": null
     },
     {
       "object": "page",
-      "id": "16e64052-cea9-81ab-addb-c354e431edac",
-      "created_time": "2025-01-01T06:25:00.000Z",
-      "last_edited_time": "2025-01-01T06:25:00.000Z",
+      "id": "16e64052-cea9-805a-8c0d-ec1fda55db2b",
+      "created_time": "2025-01-01T09:42:00.000Z",
+      "last_edited_time": "2025-01-01T09:49:00.000Z",
       "created_by": {
         "object": "user",
         "id": "055a1f5a-55d8-4d1a-8a6b-7fe62325ef0d"
@@ -126,12 +146,12 @@
       "cover": {
         "type": "external",
         "external": {
-          "url": "https://www.notion.so/images/page-cover/rijksmuseum_jan_lievens_1627.jpg"
+          "url": "https://www.notion.so/images/page-cover/solid_blue.png"
         }
       },
       "icon": {
         "type": "emoji",
-        "emoji": "🎤"
+        "emoji": "🗒️"
       },
       "parent": {
         "type": "database_id",
@@ -140,26 +160,25 @@
       "archived": false,
       "in_trash": false,
       "properties": {
-        "categories": "Elog-Notion",
+        "categories": "深入源码",
         "tags": [
-          "notion",
-          "elog"
+          "后端"
         ],
-        "description": "使用Notion + Hexo部署博客时，在 Notion 上写作的注意事项，以及如何配置Elog使其更好的结合Hexo",
-        "permalink": "notion-notice/",
-        "title": "Notion-Hexo 的 Elog 配置详解",
-        "cover": "/images/de91d8193c1b7d27e88f220af42a71b8.jpg",
-        "date": "2025-01-01 14:25:00",
-        "updated": "2025-01-01 14:25:00"
+        "description": "",
+        "permalink": "",
+        "title": "单例模式下的懒加载",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:49:00"
       },
-      "url": "https://www.notion.so/Notion-Hexo-Elog-16e64052cea981abaddbc354e431edac",
+      "url": "https://www.notion.so/16e64052cea9805a8c0dec1fda55db2b",
       "public_url": null
     },
     {
       "object": "page",
-      "id": "16e64052-cea9-81eb-81cf-faaee5f977fa",
-      "created_time": "2025-01-01T06:25:00.000Z",
-      "last_edited_time": "2025-01-01T06:25:00.000Z",
+      "id": "16e64052-cea9-80cd-af01-c803c060dc4c",
+      "created_time": "2025-01-01T09:42:00.000Z",
+      "last_edited_time": "2025-01-01T09:49:00.000Z",
       "created_by": {
         "object": "user",
         "id": "055a1f5a-55d8-4d1a-8a6b-7fe62325ef0d"
@@ -169,15 +188,14 @@
         "id": "055a1f5a-55d8-4d1a-8a6b-7fe62325ef0d"
       },
       "cover": {
-        "type": "file",
-        "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/20e29165-4a92-429b-98d7-cc3ffc5dbeb1/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250101T063005Z&X-Amz-Expires=3600&X-Amz-Signature=8105c6b548f23e81dfecf4c862defcaa20c407743058d96ce3137a51542756ec&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2025-01-01T07:30:05.802Z"
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/solid_blue.png"
         }
       },
       "icon": {
         "type": "emoji",
-        "emoji": "🦺"
+        "emoji": "😈"
       },
       "parent": {
         "type": "database_id",
@@ -186,21 +204,64 @@
       "archived": false,
       "in_trash": false,
       "properties": {
-        "categories": "博客折腾手册",
+        "categories": "深入源码",
         "tags": [
-          "elog",
-          "notion",
-          "hexo",
-          "blog"
+          "OpenFeign",
+          "后端"
         ],
         "description": "",
-        "permalink": "notion-hexo/",
-        "title": "Notion + Hexo + GitHub Actions + Vercel 博客解决方案",
-        "cover": "/images/e6a03ae5a57d49e4914b57a306787607.jpg",
-        "date": "2025-01-01 14:25:00",
-        "updated": "2025-01-01 14:25:00"
+        "permalink": "",
+        "title": "OpenFeign源码解析",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:49:00"
       },
-      "url": "https://www.notion.so/Notion-Hexo-GitHub-Actions-Vercel-16e64052cea981eb81cffaaee5f977fa",
+      "url": "https://www.notion.so/OpenFeign-16e64052cea980cdaf01c803c060dc4c",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "16e64052-cea9-80e9-bf42-dde3ebcbdb49",
+      "created_time": "2025-01-01T09:42:00.000Z",
+      "last_edited_time": "2025-01-01T09:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "055a1f5a-55d8-4d1a-8a6b-7fe62325ef0d"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "055a1f5a-55d8-4d1a-8a6b-7fe62325ef0d"
+      },
+      "cover": {
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/solid_blue.png"
+        }
+      },
+      "icon": {
+        "type": "emoji",
+        "emoji": "👀"
+      },
+      "parent": {
+        "type": "database_id",
+        "database_id": "16e64052-cea9-806b-9223-f11056aee7d5"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "categories": "基础架构",
+        "tags": [
+          "MIT",
+          "后端"
+        ],
+        "description": "",
+        "permalink": "",
+        "title": "MIT6.824 Lab1",
+        "cover": "/images/ab6231a3d2f775538d50989cdb1f8a9d.png",
+        "date": "2025-01-01 17:42:00",
+        "updated": "2025-01-01 17:48:00"
+      },
+      "url": "https://www.notion.so/MIT6-824-Lab1-16e64052cea980e9bf42dde3ebcbdb49",
       "public_url": null
     }
   ]

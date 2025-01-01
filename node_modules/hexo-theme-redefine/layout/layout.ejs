@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="<%= config.language %>">
+<%- partial('components/header/head') %>
+
+<body>
+	<%- body %>
+	<%- partial('components/scripts') %>
+	<% if (theme.plugins.aplayer.enable) { %>
+	<%- partial('components/plugins/aplayer') %>
+	<% } %>
+</body>
+
+</html>
