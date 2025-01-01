@@ -202,9 +202,12 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    Archives: 
-      path: /archives 
+    朝花夕拾: 
       icon: fa-regular fa-archive # can be empty
+      submenus: 
+        Archives: /archives 
+        Tags: /tags
+        Categories: /categories 
     About: 
       icon: fa-regular fa-user
       submenus:
@@ -249,7 +252,7 @@ home:
         icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
-  article_date_format: relative # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
+  article_date_format: YYYY-MM-DD # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
   # Article excerpt length
   excerpt_length: 200 # Max length of article excerpt
   # Article categories visibility
@@ -292,7 +295,7 @@ articles:
   author_label: 
     enable: true # Whether to enable
     auto: false # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3...
-    list: ['🐱🐱']
+    list: ['🐱🍭🐱']
   # Code block settings
   code_block:
     copy: true # Whether to enable code block copy button
