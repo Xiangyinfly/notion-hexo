@@ -8,7 +8,7 @@ permalink: ''
 title: 手搓RPC框架
 cover: /images/ab6231a3d2f775538d50989cdb1f8a9d.png
 date: '2025-01-01 17:42:00'
-updated: '2025-01-01 17:48:00'
+updated: '2025-01-01 18:38:00'
 ---
 
 > 😠 天天在SpringBoot的庇护下写CRUD，多没意思
